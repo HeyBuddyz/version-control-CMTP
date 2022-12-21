@@ -1,0 +1,6 @@
+#ignore all data file which is the .txt file
+*.txt
+
+#incase this is used in conjuction with the .txt files to load in the tables
+sym.q
+
