@@ -1,6 +1,5 @@
 #ignore all data file which is the .txt file
-*.txt
+trade.txt
+quote.txt
 
-#incase this is used in conjuction with the .txt files to load in the tables
-sym.q
 
